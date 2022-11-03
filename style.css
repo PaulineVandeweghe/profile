@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Poppins:wght@300;400;500;700");
+
+body {
+  background-color: F6F6F6;
+  font-family: 'Open sans';
+  font-weight: 300;
+  color: 364156;
+  font-size: 15px;
+  line-height: 3;
+}
+.text-justify {
+  text-align: justify;
+}
+.text-center {
+  text-align: center;
+}
+li{
+  display: inline;
+}
+ul{
+  padding: 0;
+}
+a {
+  text-decoration: none;
+  color: 5a2a27;
+  font-family: 'Open sans';
+}
+a:hover {
+  color: 11151c;
+}
+
+h1 {
+  color: 364156;
+  font-family: 'Roboto';
+  font-size: 20px;
+  line-height: 1;
+}
+h2 {
+  color: 687980;
+  font-size: 18px;
+  font-family: 'Roboto';
+  line-height: 1;
+}
+#profile-pic{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.card-white {
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+}
+.card{
+  background-color: white;
+  padding: 24px;
+  width: 600px;;
+  margin: 25px auto;
+  border-radius: 4;
+  border: 1px solid #EAEAEA;
+}
+.btn-brown {
+  background-color: #865858;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px;
+}
+.container {
+  width: 700px;
+  margin: 40px auto;
+}
+div {
+  display: block;
+}
+.list-inline{
+  font-size: 50px;
+  color: 364156;
+}
